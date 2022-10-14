@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hii
+=======
+hiii
+this file is updated from remote
+>>>>>>> e1b0be6f16ac46b96dca8dd171345d2b280c6eb8
